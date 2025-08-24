@@ -12,4 +12,4 @@ It automates the login functionality of [HerokuApp Login Page](https://the-inter
 ## ▶️ How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/SeleniumSampleProject.git
+   https://github.com/mounika939/sample-automation-project
